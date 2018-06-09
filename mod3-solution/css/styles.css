@@ -54,6 +54,7 @@ body {
 }
 #nav-list a:hover {
   background: #f5ce28; /*yellow*/
+  
 }
 #nav-list a span {
   font-size: 1.8em;
